@@ -1,0 +1,28 @@
+{
+  "name": "autoswarm",
+  "version": "0.1.0",
+  "description": "merge data over hyperswarm",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fwip/autoswarm.git"
+  },
+  "author": "Jemma Nelson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fwip/autoswarm/issues"
+  },
+  "homepage": "https://github.com/fwip/autoswarm#readme",
+  "dependencies": {
+    "automerge": "^0.14.1",
+    "hyperswarm": "^2.14.0",
+    "length-prefixed-stream": "^2.0.0"
+  },
+  "devDependencies": {
+    "debounce": "^1.2.0",
+    "tape": "^5.0.1"
+  }
+}
