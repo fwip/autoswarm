@@ -1,6 +1,6 @@
 # autoswarm
 
-If you glued together automerge and hyperswarm, you get an autoswarm - a really simple way to sync a JSON document over the web, automagically.
+If you glued together [Automerge](https://github.com/automerge/automerge) and [Hyperswarm](https://github.com/hyperswarm/hyperswarm), you might get an autoswarm - a really simple way to sync a JSON document over the web, automagically.
 
 ## Example Usage
 
